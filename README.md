@@ -12,5 +12,3 @@
 ### Last 60 Days
 ![Last 60 Days](Last%2060%20Days.png)
 
-CapCut Pro User.png
-
